@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>&lt;div class="TcSelect $1"&gt;
-    &lt;span class="value"&gt;$2&lt;/span&gt;
-    &lt;select name="${1:name}" size="1"&gt;
-        &lt;option value="$2" selected&gt;${2:option}&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;div class="arrow"&gt;&lt;/div&gt;
+	&lt;span class="value"&gt;$2&lt;/span&gt;
+	&lt;select name="${1:name}" size="1"&gt;
+		&lt;option value="$2" selected&gt;${2:option}&lt;/option&gt;
+	&lt;/select&gt;
+	&lt;div class="arrow"&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
 	<string>TcSelect (tselect)</string>

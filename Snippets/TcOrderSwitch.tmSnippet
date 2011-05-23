@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="TcOrderSwitch $1"&gt;
-    &lt;input type="hidden" name="${1:name}" value=""&gt;
-    &lt;span class="label"&gt;${2:created at}&lt;/span&gt;
-    &lt;span class="sprite"&gt;&lt;/span&gt;
+	<string>&lt;div class="TcOrderSwitch $1 $2 $3"&gt;
+	&lt;span class="label"&gt;from&lt;/span&gt;
+	&lt;span class="button"&gt;&lt;/span&gt;
+	&lt;input type="hidden" name="${1:name}" value="${2:desc}${3:asc}"&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
 	<string>TcOrderSwitch (torder)</string>
