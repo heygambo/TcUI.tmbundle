@@ -7,6 +7,7 @@
 	&lt;span class="placeholder"&gt;${1:Search}&lt;/span&gt;
 	&lt;input type="text" name="${2:q}" value="$3"&gt;
 	&lt;span class="x"&gt;&lt;/span&gt;
+	&lt;span class="ajax-loader"&gt;&lt;/span&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
 	<string>TcSearchInput (tsearch)</string>
