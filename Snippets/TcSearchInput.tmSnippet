@@ -9,7 +9,11 @@
     &lt;span class="x"&gt;&lt;/span&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcSearchInput</string>
+	<string>TcSearchInput (tsearch)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tsearch</string>
 	<key>uuid</key>
 	<string>12A9B836-EA25-46D7-BB61-759404C3DC2F</string>
 </dict>

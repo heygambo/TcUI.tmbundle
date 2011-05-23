@@ -5,7 +5,11 @@
 	<key>content</key>
 	<string>&lt;a href="${1:#}" class="TcButton"&gt;$2&lt;/a&gt;</string>
 	<key>name</key>
-	<string>TcButton</string>
+	<string>TcButton (tbutton)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>tbutton</string>
 	<key>uuid</key>
 	<string>967D9212-D142-445A-8AE1-9470D215D981</string>
 </dict>

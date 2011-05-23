@@ -16,12 +16,12 @@
     &lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcLayer (tlayer)</string>
+	<string>TcLayer (t)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tlayer</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>0EC02E10-3856-4DCC-850E-728098C2A6BC</string>
+	<string>0D770658-156F-4DB8-9204-7E3349F3CF2A</string>
 </dict>
 </plist>

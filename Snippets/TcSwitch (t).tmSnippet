@@ -7,12 +7,12 @@
     &lt;input class="some" type="checkbox" name="$1" value="${2:value}"${3: checked="checked"}&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcSwitch (tswitch)</string>
+	<string>TcSwitch (t)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tswitch</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>A3472FC7-0A92-4D0B-8899-C1AC27623187</string>
+	<string>6341072A-4E04-45BB-A7CE-7F3893F03E09</string>
 </dict>
 </plist>

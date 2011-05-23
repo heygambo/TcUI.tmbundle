@@ -11,12 +11,12 @@
     &lt;div class="arrow"&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcSelect (tselect)</string>
+	<string>TcSelect (t)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tselect</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>BF152C8C-F8DF-4FB4-B3BB-BFC88FB0DE97</string>
+	<string>B093B1A3-FDCA-4A75-9A2F-F4E33134AE66</string>
 </dict>
 </plist>

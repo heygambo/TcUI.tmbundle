@@ -9,7 +9,11 @@
     &lt;span class="sprite"&gt;&lt;/span&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcOrderSwitch</string>
+	<string>TcOrderSwitch (torder)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>torder</string>
 	<key>uuid</key>
 	<string>58A55AD2-65D5-4D9D-8042-F5375ECADB97</string>
 </dict>

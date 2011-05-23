@@ -3,16 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="TcSwitch ${1:name}"&gt;
-    &lt;input class="some" type="checkbox" name="$1" value="${2:value}"${3: checked="checked"}&gt;
+	<string>&lt;div class="TcOrderSwitch $1"&gt;
+    &lt;input type="hidden" name="${1:name}" value=""&gt;
+    &lt;span class="label"&gt;${2:created at}&lt;/span&gt;
+    &lt;span class="sprite"&gt;&lt;/span&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>TcSwitch (tswitch)</string>
+	<string>TcOrderSwitch (t)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>tswitch</string>
+	<string>t</string>
 	<key>uuid</key>
-	<string>A3472FC7-0A92-4D0B-8899-C1AC27623187</string>
+	<string>AD3719D9-62DF-4E3D-8AC6-7744B3C718AF</string>
 </dict>
 </plist>
