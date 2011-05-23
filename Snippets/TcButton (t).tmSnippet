@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a href="${1:#}" class="TcButton"&gt;$2&lt;/a&gt;</string>
+	<string>&lt;a class="TcButton" href="${1:#}"&gt;${2:some value}&lt;/a&gt;w</string>
 	<key>name</key>
-	<string>TcButton (t)</string>
+	<string>TcButton a (t)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

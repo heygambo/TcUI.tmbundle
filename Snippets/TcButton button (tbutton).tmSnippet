@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a class="TcButton" href="${1:#}"&gt;${2:some value}&lt;/a&gt;</string>
+	<string>&lt;button class="TcButton" type="${1:button}${2:submit}"&gt;${3:sometext}&lt;/button&gt;</string>
 	<key>name</key>
-	<string>TcButton a (tbutton)</string>
+	<string>TcButton button (tbutton)</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>tbutton</string>
 	<key>uuid</key>
-	<string>967D9212-D142-445A-8AE1-9470D215D981</string>
+	<string>8B71B487-1339-42FE-B8D9-D9676B7ED3FB</string>
 </dict>
 </plist>
