@@ -3,9 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>how does git work out?</string>
+	<string>&lt;div class="TcLayer"&gt;
+    &lt;nav&gt;
+        &lt;a href="#"&gt;create new message&lt;/a&gt;
+        &lt;a data-source="data.html" href="#"&gt;remote data&lt;/a&gt;
+    &lt;/nav&gt;
+    &lt;div class="layer"&gt;
+        &lt;p&gt;first content layer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class="layer"&gt;
+        &lt;p&gt;remote data&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</string>
 	<key>name</key>
-	<string>testing</string>
+	<string>TcLayer</string>
 	<key>uuid</key>
 	<string>0EC02E10-3856-4DCC-850E-728098C2A6BC</string>
 </dict>

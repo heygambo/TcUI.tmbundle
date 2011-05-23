@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcTextInput $2"&gt;
+	&lt;span class="placeholder"&gt;${1:some placeholder}&lt;/span&gt;
+	&lt;input type="text" name="${2:name}" value="${3:value}"&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcTextInput</string>
+	<key>uuid</key>
+	<string>C217E78F-BCBF-45D2-9BC0-89E3CD1727D3</string>
+</dict>
+</plist>

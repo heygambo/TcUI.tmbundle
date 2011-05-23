@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcSearchInput $2"&gt;
+    &lt;span class="placeholder"&gt;${1:Search}&lt;/span&gt;
+    &lt;input type="text" name="${2:q}" value="$3"&gt;
+    &lt;span class="x"&gt;&lt;/span&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcSearchInput</string>
+	<key>uuid</key>
+	<string>12A9B836-EA25-46D7-BB61-759404C3DC2F</string>
+</dict>
+</plist>

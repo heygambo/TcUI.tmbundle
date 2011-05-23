@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcSelect $1"&gt;
+    &lt;span class="value"&gt;{}&lt;/span&gt;
+    &lt;select name="${1:name}" size="1"&gt;
+        &lt;option value="option1" selected&gt;option1&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;div class="arrow"&gt;&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcSelect</string>
+	<key>uuid</key>
+	<string>BF152C8C-F8DF-4FB4-B3BB-BFC88FB0DE97</string>
+</dict>
+</plist>

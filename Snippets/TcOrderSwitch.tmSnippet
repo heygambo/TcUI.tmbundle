@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcOrderSwitch $1"&gt;
+    &lt;input type="hidden" name="${1:name}" value=""&gt;
+    &lt;span class="label"&gt;${2:created at}&lt;/span&gt;
+    &lt;span class="sprite"&gt;&lt;/span&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcOrderSwitch</string>
+	<key>uuid</key>
+	<string>58A55AD2-65D5-4D9D-8042-F5375ECADB97</string>
+</dict>
+</plist>
