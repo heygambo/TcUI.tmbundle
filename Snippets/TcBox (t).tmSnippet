@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcBox ${1:name}"&gt;
+    &lt;div class="top"&gt;
+        &lt;div class="inner"&gt;
+            Header Content
+        &lt;/div&gt;
+    &lt;/div&gt;
+     
+    &lt;div class="content"&gt;
+        &lt;div class="inner"&gt;
+            Some Content   
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcBox (t)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>t</string>
+	<key>uuid</key>
+	<string>A851B7AD-AE9D-4503-9D85-BB70CE320681</string>
+</dict>
+</plist>
