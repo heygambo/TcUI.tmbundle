@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a class="TcButton" href="${1:#}"&gt;${2:some value}&lt;/a&gt;w</string>
+	<string>&lt;a class="TcButton" href="${1:#}"&gt;${2:some value}&lt;/a&gt;</string>
 	<key>name</key>
 	<string>TcButton a (t)</string>
 	<key>scope</key>
