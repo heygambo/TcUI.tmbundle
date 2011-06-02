@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button class="TcButton" type="button"&gt;A Button&lt;/button&gt;</string>
+	<string>&lt;input class="TcButton" type="${1:button}${2:submit}" name="${3:name}" value="${4:value}"&gt;</string>
 	<key>name</key>
 	<string>TcButton input (t)</string>
 	<key>scope</key>
