@@ -3,7 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="TcRating star-${1:0}"&gt;&lt;/div&gt;$0</string>
+	<string>&lt;div class="TcRating ${1:editable} $2"&gt;
+	&lt;input type="hidden" name="${2:something}" value="${3:0}"&gt;
+	&lt;span class="dot"&gt;&lt;/span&gt;
+	&lt;span class="dot"&gt;&lt;/span&gt;
+	&lt;span class="dot"&gt;&lt;/span&gt;
+	&lt;span class="dot"&gt;&lt;/span&gt;
+	&lt;span class="dot"&gt;&lt;/span&gt;
+&lt;/div&gt;</string>
 	<key>name</key>
 	<string>TcRating (trating)</string>
 	<key>scope</key>
