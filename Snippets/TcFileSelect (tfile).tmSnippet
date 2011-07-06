@@ -6,7 +6,8 @@
 	<string>&lt;div class="TcFileSelect $1"&gt;
 	&lt;span class="label TcTextInput"&gt;No File Selected&lt;/span&gt;
 	&lt;input type="file" name="${1:file}" value=""&gt;
-	&lt;button class="TcButton" type="submit"&gt;${2:Upload File}&lt;/button&gt;
+	&lt;button class="browse TcButton" type="button"&gt;${2:Select File}&lt;/button&gt;
+	&lt;button class="submit TcButton" type="submit"&gt;${3:Upload File}&lt;/button&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
 	<string>TcFileSelect (tfile)</string>
