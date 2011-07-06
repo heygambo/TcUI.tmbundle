@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="TcFileSelect $1"&gt;
+	&lt;span class="label TcTextInput"&gt;No File Selected&lt;/span&gt;
+	&lt;input type="file" name="${1:file}" value=""&gt;
+	&lt;button class="TcButton" type="submit"&gt;${2:Upload File}&lt;/button&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>TcFileSelect (t)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>t</string>
+	<key>uuid</key>
+	<string>99CE516A-8CEC-4898-8324-A66B6774F89F</string>
+</dict>
+</plist>
